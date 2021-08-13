@@ -28,7 +28,8 @@
 - [Como empezar](#getting_started)
 - [Construido con](#built_using)
 - [Autor](#authors)
-- [Redes sociales](#acknowledgement)
+- [Extensiones VSC](#extra)
+- [Redes sociales](#redes)
 
 ## 🧐 Acerca de <a name = "about"></a>
 
@@ -81,3 +82,8 @@ Recuerda que para poder utilizar este codigo necesitas tener instalado [NodeJS](
 - [NPM Dependency Link](https://marketplace.visualstudio.com/items?itemName=herrmannplatz.npm-dependency-links)
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+## 🌐 Redes Sociales <a name = "redes"></a>
+
+- [Telegram-Bot]()
+- Discord `MagickZ#5507`
