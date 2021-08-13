@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://i.imgur.com/2f0Oj1l.gif" alt="Project logo" style="border-radius:10px"></a>
 </p>
 
-## <h1 align="center" style="color:white;">Discord bot</h1>
+<h1 align="center" style="color:white;">Discord Bot</h1>
 
 <div align="center">
 
@@ -64,6 +64,7 @@ Recuerda que para poder utilizar este codigo necesitas tener instalado [NodeJS](
 - [MongoDB](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_americas_mexico_search_brand_atlas_desktop&utm_term=mongodb%20npm&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=1718986519&gclid=CjwKCAjwsNiIBhBdEiwAJK4khr8g89w5QEFMdQLdf8Z400Mw36R0iQOCAYDr3026IuRmKZLlS9Bu1hoC4pkQAvD_BwE)
 - [Axios](https://www.npmjs.com/package/axios)
 - [mongoose](https://www.npmjs.com/package/mongoose)
+- [nodemon](https://www.npmjs.com/package/nodemon)
 
 ## ✍️ Authors <a name = "authors"></a>
 
