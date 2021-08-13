@@ -53,7 +53,7 @@ En es repositorio encontraras el codigo de cada uno de los episodios de la serie
 
 Recuerda que para poder utilizar este codigo necesitas tener instalado [NodeJS](https://nodejs.org/es/).
 
-## ⛏️ Built Using <a name = "built_using"></a>
+## ⛏️ Construido con <a name = "built_using"></a>
 
 > Requerimientos Base
 
