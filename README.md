@@ -59,6 +59,7 @@ Recuerda que para poder utilizar este codigo necesitas tener instalado [NodeJS](
 
 - [NodeJs](https://nodejs.org/en/)
 - [discord.js](https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
 
 > Requerimientos Adicionales (Depende del episodio)
 
