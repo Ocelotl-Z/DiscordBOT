@@ -13,7 +13,7 @@ module.exports = (client, discord) => {
         console.log(cmd.name);
         client.commands.set(cmd.name, cmd);
       } else {
-        console.log(`Error: ${cmd.name}`);
+        console.log(`Error: ${file}`);
       }
     }
   });
