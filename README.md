@@ -67,6 +67,7 @@ Recuerda que para poder utilizar este codigo necesitas tener instalado [NodeJS](
 - [Axios](https://www.npmjs.com/package/axios)
 - [mongoose](https://www.npmjs.com/package/mongoose)
 - [nodemon](https://www.npmjs.com/package/nodemon)
+- [canvas](https://www.npmjs.com/package/canvas)
 
 ## ✍️ Authors <a name = "authors"></a>
 
