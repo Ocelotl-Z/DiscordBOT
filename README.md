@@ -87,5 +87,4 @@ Recuerda que para poder utilizar este codigo necesitas tener instalado [NodeJS](
 
 ## 🌐 Redes Sociales <a name = "redes"></a>
 
-- [Telegram-Bot]()
-- Discord ``
+- [Discord](https://discord.gg/Kp5uZUY8AC)
