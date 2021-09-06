@@ -44,8 +44,8 @@ En es repositorio encontraras el codigo de cada uno de los episodios de la serie
   <li> Una vez ejecutado el comando se te instalaran los paquetes necesarios
   <li> Terminada la instalacion crea tu archivo .env donde escribiras lo siguiente:<br>
   <code>
-  Token='Discord Token' <br>
-  Prefix='Prefijo Defaul'
+  TOKEN='Discord Token' <br>
+  PREFIX='Prefijo Defaul'
   </code>
 </ul>
 
