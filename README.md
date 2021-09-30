@@ -49,7 +49,7 @@ En es repositorio encontraras el codigo de cada uno de los episodios de la serie
   </code>
 </ul>
 
-### Prerequisitos
+### Prerrequisitos
 
 Recuerda que para poder utilizar este codigo necesitas tener instalado [NodeJS](https://nodejs.org/es/).
 
@@ -68,6 +68,7 @@ Recuerda que para poder utilizar este codigo necesitas tener instalado [NodeJS](
 - [mongoose](https://www.npmjs.com/package/mongoose)
 - [nodemon](https://www.npmjs.com/package/nodemon)
 - [canvas](https://www.npmjs.com/package/canvas)
+- [ms](https://www.npmjs.com/package/ms)
 
 ## ✍️ Authors <a name = "authors"></a>
 
