@@ -43,10 +43,12 @@ En es repositorio encontraras el codigo de cada uno de los episodios de la serie
   <li> En la terminal escribe lo siguiente: <code> npm install </code>
   <li> Una vez ejecutado el comando se te instalaran los paquetes necesarios
   <li> Terminada la instalacion crea tu archivo .env donde escribiras lo siguiente:<br>
-  <code>
-  TOKEN='Discord Token' <br>
+
+  ```bash
+  TOKEN='Discord Token'
   PREFIX='Prefijo Defaul'
-  </code>
+  ```
+
 </ul>
 
 ### Prerrequisitos
@@ -69,6 +71,10 @@ Recuerda que para poder utilizar este codigo necesitas tener instalado [NodeJS](
 - [nodemon](https://www.npmjs.com/package/nodemon)
 - [canvas](https://www.npmjs.com/package/canvas)
 - [ms](https://www.npmjs.com/package/ms)
+- [ffmpeg](https://www.npmjs.com/package/ffmpeg)
+- [play-dl](https://www.npmjs.com/package/play-dl)
+- [colors](https://www.npmjs.com/package/colors)
+- [libsodium-wrappers](https://www.npmjs.com/package/libsodium-wrappers)
 
 ## ✍️ Authors <a name = "authors"></a>
 
