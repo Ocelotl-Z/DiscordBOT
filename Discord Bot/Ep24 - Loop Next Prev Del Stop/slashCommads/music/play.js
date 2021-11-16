@@ -93,11 +93,11 @@ module.exports = {
     player.on(AudioPlayerStatus.Idle, async (oldS, newS) => {
       if (
         queue.get(interaction.guild.id).songs.length <= 1 &&
-        queue.get(interaction.guild.id).loop == "false"
+        queue.get(interaction.guild.id).loop == false
       ) {
         connection.destroy();
         queue.delete(guildId);
-        return interaction.reply("Sin canciones por reproducir");
+        return;
       } else {
         return nextSong(
           interaction.guild.id,
