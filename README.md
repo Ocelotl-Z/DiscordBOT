@@ -45,8 +45,9 @@ En es repositorio encontraras el codigo de cada uno de los episodios de la serie
   <li> Terminada la instalacion crea tu archivo .env donde escribiras lo siguiente:<br>
 
   ```bash
-  TOKEN='Discord Token'
+  DSTOKEN='Discord Token'
   PREFIX='Prefijo Defaul'
+  DB='MongoDB url'
   ```
 
 </ul>
